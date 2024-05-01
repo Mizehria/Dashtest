@@ -1,0 +1,2 @@
+dash==2.16.1
+plotly.graph_objs
