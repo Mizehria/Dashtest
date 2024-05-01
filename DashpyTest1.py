@@ -2,8 +2,6 @@ import dash
 from dash import dcc, html, Input, Output
 import plotly.graph_objs as go
 
-Sever==app.sever
-
 # Lista de testes
 testes = ['ABFW', 'TENA', 'PROLEC', 'TDE2', 'NEUPSILIM', 'PROVA DE CONSCIÊNCIA SINTÁTICA', 'PROVA DE CONSCIÊNCIA FONOLÓGICA']
 
