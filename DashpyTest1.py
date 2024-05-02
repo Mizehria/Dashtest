@@ -21,6 +21,7 @@ cores_resultados = {
 
 # Layout do aplicativo Dash
 app = dash.Dash(__name__)
+sever = app.sever
 
 app.layout = html.Div([
     html.Div(id='sidebar', className='sidebar', children=[
